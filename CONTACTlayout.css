@@ -1,0 +1,16 @@
+.emailbutton {
+text-align: center;
+width: 300;
+height: 40;
+color:#000091;
+webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+color: #ffffff;
+display: block;
+}
+
+table {
+  margin-left:45%;
+  text-align:center;
+}

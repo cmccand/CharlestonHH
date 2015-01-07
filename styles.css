@@ -3,7 +3,7 @@ h1{
   font-size:45px;
   text-align:center;
   margin-top:5px;
-  margin-bottom:5px;
+  margin-bottom:8px;
 }
 
 h2{
@@ -16,7 +16,7 @@ h2{
 }
 
 
-ul {
+.navbar{
   font-family: 'Poiret One', cursive;
   list-style-type: none;
   text-align:center;
@@ -57,6 +57,7 @@ img {
 .contact {
   text-align:center;
   color:#FFFFFF;
+  background-color:black;
   font-size:30px;
   margin-top:0;
 }
